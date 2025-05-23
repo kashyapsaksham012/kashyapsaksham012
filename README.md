@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Kashyap</h1>
-<h3 align="center">Full-stack web developer from India, focused on MERN & cloud tech ☁️</h3>
+<h3 align="center">Full-stack web developer, focused on MERN & cloud tech ☁️</h3>
 
 - 💬 Ask me about **React Node js**
 

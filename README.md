@@ -105,9 +105,7 @@
 >
 
 
-<p align="right">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SakshamKashyap&theme=github_dark" />
-</p>
+
 
 
 
